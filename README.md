@@ -1,1 +1,1 @@
-Just practice about C/C++
+practice about C/C++
